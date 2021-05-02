@@ -3,7 +3,7 @@
 
    Hi I'M EYAL👋
    
-   <img src="https://github-readme-stats.vercel.app/api?username=EYALIALN">
+   <img src="https://github-readme-stats.vercel.app/api?username=EyalIlan/">
    
   ![EYAL ILAN GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)
 <p/>
