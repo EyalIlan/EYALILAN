@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  ![EYAL ILAN GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=highcontrast)
+  ![EYAL ILAN GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=dracula)
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ff7c58">
   <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6">
