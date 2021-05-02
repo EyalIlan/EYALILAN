@@ -1,10 +1,7 @@
 
 <p align="center">
 
-   Hi I'M EYAL👋
-   
-   <img src="https://github-readme-stats.vercel.app/api?username=EyalIlan/">
-   
+  ## Hi I'M EYAL👋
   ![EYAL ILAN GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)
 <p/>
 
