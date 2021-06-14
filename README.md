@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 [linkedin]: https://linkedin.com/in/eyal-ilan-91807418b
 
+</br>
 
 ### Languages and Tools:
 <p align="center">>
