@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img width="32px" title="HTML5" align="left" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="32px" title="CSS3" align="left" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img width="32px" title="JavaScript" align="left" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img width="32px" title="React" align="left" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img width="32px" title="React" align="left" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" 
 <img width="32px" title="Nodejs" align="left" alt="Nodejs" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
 <img width="32px" title="MongoDB" align="left" alt="MongoDB" src="https://pbs.twimg.com/profile_images/704402008854364160/dIYPdBiR.jpg" />
 <img width="32px" title="GitHub" align="left" alt="GitHub" src="https://p.kindpng.com/picc/s/255-2558173_github-logo-png-transparent-png.png" />
