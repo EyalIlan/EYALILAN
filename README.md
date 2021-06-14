@@ -3,7 +3,7 @@
 
 
 ![EyalIlan GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api?username=YanivBah">
+<img src="https://github-readme-stats.vercel.app/api?username=EyalIlan">
 
 
 <!--
