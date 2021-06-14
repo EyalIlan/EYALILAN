@@ -1,7 +1,7 @@
 
-<p align="center">
 
-  ## Hi I'M EYAL👋
+## Hi I'M EYAL👋
+<p align="center">
   ![EYAL ILAN GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)
 <p/>
 
@@ -31,5 +31,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Sass-informational?style=flat&logo=sass&logoColor=white&color=CC6699">
   <img src="https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420">
   <img src="https://img.shields.io/badge/-Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=31A8FF">
-  <img src="https://img.shields.io/badge/-Figma-informational?style=flat&logo=figma&logoColor=white&color=F24E1E">
 </p>
