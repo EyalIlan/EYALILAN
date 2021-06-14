@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 👋
 -->
   
-  
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_square_color-512.png" />][linkedin]  
   
 ### Languages and Tools:
 <p align="center">>
