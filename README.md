@@ -2,7 +2,7 @@
  # Hi I'M EYAL👋
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EyalIlan">
+<img src="https://github-readme-stats.vercel.app/api?username=EyalIlan&theme=radical)">
 </p>
 
 
