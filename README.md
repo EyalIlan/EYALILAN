@@ -1,17 +1,10 @@
 
  #Hi I'M EYAL👋
 
-<p>
- 
+
+![Eyal Ilan GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyal Ilan&show_icons=true&theme=radical)
 
 
-<p/>
-
-<p align="center">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Krijg dynamisch gegenereerde GitHub statistieken op je readme's!</p>
-</p>
 
 <!--
 
