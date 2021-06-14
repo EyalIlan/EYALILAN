@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 <img width="32px" title="Postman" align="left" alt="Postman" src="https://www.logolynx.com/images/logolynx/f5/f5d41d6b7c54dafe7cd717d09903c275.jpeg">
 </div>  
   
-<div class="allow-for-block">  
-<p align="center">
+  
+<p align="right">
   <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ff7c58">
   <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6">
   <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420">
   <img src="https://img.shields.io/badge/-Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=31A8FF">
 </p>
-</div>  
+ 
