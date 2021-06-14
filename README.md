@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img width="32px" title="Postman" align="left" alt="Postman" src="https://www.logolynx.com/images/logolynx/f5/f5d41d6b7c54dafe7cd717d09903c275.jpeg">
 
 </br> 
-<p align="right">
+<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ff7c58">
   <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6">
   <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
