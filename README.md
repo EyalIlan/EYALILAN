@@ -1,13 +1,18 @@
 
  # Hi I'M EYAL👋
 
-
-![EyalIlan GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EyalIlan">
+</p>
+
+
+
+
+
 
 
 <!--
-
+![EyalIlan GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
