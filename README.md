@@ -2,7 +2,7 @@
  #Hi I'M EYAL👋
 
 
-![Eyal Ilan GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyal Ilan&show_icons=true&theme=radical)
+![EyalIlan GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)
 
 
 
