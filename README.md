@@ -1,5 +1,5 @@
 
- # Hi I'M EYAL👋
+ # Hi I'M EYAL😄
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)">
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👋
 -->
   
   
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
 <img width="32px" title="GitHub" align="left" alt="GitHub" src="https://p.kindpng.com/picc/s/255-2558173_github-logo-png-transparent-png.png" />
 <img width="32px" title="Express.js" align="left" alt="Express.js" src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2">
 <img width="32px" title="Postman" align="left" alt="Postman" src="https://www.logolynx.com/images/logolynx/f5/f5d41d6b7c54dafe7cd717d09903c275.jpeg">
+
 </p>
  
  
@@ -46,7 +48,7 @@ Here are some ideas to get you started:
 </br>
 </br> 
 </br> 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ff7c58">
   <img src="https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6">
   <img src="https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E">
