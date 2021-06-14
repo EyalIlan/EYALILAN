@@ -3,12 +3,12 @@
 
 <p>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <p/>
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Krijg dynamisch gegenereerde GitHub statistieken op je readme's!</p>
 </p>
