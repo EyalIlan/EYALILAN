@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 
  
-  <img width="32px" title="Redux" align="left" alt="Redux"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
+<img width="32px" title="Redux" align="left" alt="Redux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
  
 </p>
  
