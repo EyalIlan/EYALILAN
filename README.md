@@ -6,10 +6,13 @@
  
  </br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)">
+<!--  ![Eyal github stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical) -->
 </p>
 
+[![Eyal github stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=tokyonight)
 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)"> -->
 
 
 <!--
