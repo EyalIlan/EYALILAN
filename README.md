@@ -12,7 +12,9 @@
 
 
 
-
+- 🔭 I’m currently working on my e-commerce project learning through working fullstack skills   
+- 🌱 I’m currently learning back-end Technologies.
+- 👯 I’m looking to collaborate on fullstack open source project 
 <!--
 ![EyalIlan GitHub stats](https://github-readme-stats.vercel.app/api?username=EyalIlan&show_icons=true&theme=radical)
 Here are some ideas to get you started:
