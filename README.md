@@ -1,7 +1,5 @@
 
- # HI I'M EYAL :smiley:
- 
- 
+ # HI I'M EYAL :smiley: 
 - 🔭 I’m currently working on my e-commerce project learning through working fullstack skills   
 - 🌱 I’m currently learning back-end Technologies.
 - 👯 I’m looking to collaborate on fullstack open source project 
