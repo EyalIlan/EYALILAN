@@ -1,8 +1,8 @@
 
- # HI I'M EYAL :smiley: 
- #### 🔭 I’m currently working on my e-commerce project learning through working fullstack skills   
- #### 🌱 I’m currently learning back-end Technologies.
- #### 👯 I’m looking to collaborate on fullstack open source project 
+ # HI I'M EYAL Welcome to my Github:smiley: 
+ #### 🔭 I'm Looking to collaborate with other content creators  
+ #### 🌱 I'm currently finishing the Appleseeds academy fullstack bootcamp.
+ #### 👯 I'm creating and uploading various fullstack projects
  
  </br>
 <p align="center">
