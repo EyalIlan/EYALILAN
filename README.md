@@ -1,9 +1,9 @@
 
- I'm creating and uploading various fullstack projects
+
  #### 🔭 I'm working on fullstack projects
  #### 🌱 I'm currently learning nodejs and other backend technologies
- #### 👯 I'm Looking to collaborate with other web creators 
- #### 📫 How to reach me? in my linkdein account, github , mail: eyalilan8@gmail.com or my phone:0509599095
+ #### 👯 I'm Looking to collaborate with other web developers 
+ #### 📫 How to reach me? in my linkdein account, github , mail: eyalilan8@gmail.com or phone: 0509599095
  #### ⚡ Fun fact: one of my most liked things to do is travel and workout in MMA martial arts
  </br>
 <p align="center">
