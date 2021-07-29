@@ -3,7 +3,9 @@
  #### 🔭 I'm working on fullstack projects
  #### 🌱 I'm currently learning nodejs and other backend technologies
  #### 👯 I'm Looking to collaborate with other web developers 
- #### 📫 How to reach me? in my linkdein account, github , mail: eyalilan8@gmail.com or phone: 0509599095
+ #### 📫 How to reach me? 
+ ####   Mail:eyalilan8@gmail.com  
+ ####   Linkdein account: linkedin.com/in/eyal-ilan-91807418b  
  #### ⚡ Fun fact: one of my most liked things to do is travel and workout in MMA martial arts
  </br>
 <p align="center">
