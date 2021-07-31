@@ -1,6 +1,5 @@
-# <h1 align="center">Hi I'm Eyal 👋</h1>
-# <h3 align="center">A Fullstack Web Developer</h3>
 
+ # <h2 align="center">Hi I'm Eyal  A Fullstack Web Developer 👋</h2>
  #### 🔭 I'm working on fullstack projects
  #### 🌱 I'm currently learning nodejs and other backend technologies
  #### 👯 I'm Looking to collaborate with other web developers 
